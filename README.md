@@ -27,3 +27,8 @@ I think that the logistic regression model outperformed the svm model based on t
 
 SVM
 ![alt text](https://github.com/jtrieu2/module-14/blob/main/ideal_params_short_3_long_110_svm.png)
+
+
+Logistic Regression
+![alt text](https://github.com/jtrieu2/module-14/blob/main/ideal_params_short_3_long_110_lr.png)
+
