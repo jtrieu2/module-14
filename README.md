@@ -25,3 +25,5 @@ The following images below are iterations on the length of the training data.
 Evaluation Report of Classifiers
 I think that the logistic regression model outperformed the svm model based on the following graphs. Both of them had the same parameters and same testing/training set.
 
+SVM
+![alt text](https://github.com/jtrieu2/module-14/blob/main/ideal_params_short_3_long_110_svm.png)
