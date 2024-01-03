@@ -7,6 +7,7 @@ I think that having a 3 month training data was the best because it maximized th
 
 Below is the image for 3 months training data, short window of 3 and long window of 110. 
 ![alt text](https://github.com/jtrieu2/module-14/blob/main/ideal_params_short_3_long_110.png)
+
 Below is the baseline parameters graph. 
 ![alt text](https://github.com/jtrieu2/module-14/blob/main/baseline.png)
 
