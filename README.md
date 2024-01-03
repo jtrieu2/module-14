@@ -22,4 +22,6 @@ The following images below are iterations on the length of the training data.
 6 month
 ![alt text](https://github.com/jtrieu2/module-14/blob/main/6month.png)
 
+Evaluation Report of Classifiers
+I think that the logistic regression model outperformed the svm model based on the following graphs. Both of them had the same parameters and same testing/training set.
 
