@@ -11,6 +11,8 @@ This is the baseline parameters graph.
 Below is the image for 3 months training data, short window of 3 and long window of 110. 
 ![alt text](https://github.com/jtrieu2/module-14/blob/main/ideal_params_short_3_long_110.png)
 
+The following images below are iterations on the length of the training data.
+
 1 month
 ![alt text](https://github.com/jtrieu2/module-14/blob/main/1month.png)
 
